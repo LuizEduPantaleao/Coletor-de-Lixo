@@ -1,4 +1,4 @@
-<h1>COLETOR DE LIXO AUTOMATICO PARA</h1>
+<h1>COLETOR DE LIXO AUTOMATICO PARA C</h1>
 Este codigo ele tem a intuição de ser uma especie de limpador de lixos que são gerados em C, onde irá criar uma lista encadeada que irá armazenar o lixo e com um contador de referencia irá deletar todos que forem igual a 0
 
 <h1> FUNÇÕES </h1>
